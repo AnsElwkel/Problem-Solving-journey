@@ -9,6 +9,7 @@ using namespace std;
 #define sz(v)	((int)((v).size()))
 #define ELWKEL ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 #define testCase int t;cin>>t;while(t--)
+#define INF 1e9
 const int MAX = 1e3+1;
 const int MOD = 1e9 + 7;
 ////////! CODE !\\\\\\\\/
